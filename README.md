@@ -9,7 +9,7 @@
 
 2. For The Piece
 - 1인칭 3D 좀비 FPS게임
-- 내 역할: 팀장. VR 연동 및 전체적인 UI 인터랙션 개발. 좀비 상호작용 등(HP, 공격 판정 등).
+- 내 역할: 팀장. VR 연동 및 전체적인 UI/UX 구상 및 개발. 좀비 상호작용 등(HP, 공격 판정 등).
 - 링크: https://github.com/limyt0/forthepiece
 
 3.SurvivalAndEscape
