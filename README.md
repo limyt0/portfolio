@@ -19,12 +19,12 @@
 
 ## 웹 프로젝트
 
-3. Happy House
+1. Happy House
 - 집 매물찾기 서비스
 - 내 역할: Kakao API 연결, 게시판 구현 등.
 - 링크: https://github.com/limyt0/frontback_project
 
-4. In For Seoul
+2. In For Seoul
 - 서울 관광 안내 서비스
 - 내 역할: DB 모델링 및 SQL 작성. 페이지 게시판 구현 
 - 링크: https://github.com/limyt0/inforseoul
