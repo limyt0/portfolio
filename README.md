@@ -17,6 +17,10 @@
 - 내 역할: VR 연동 및 NPC 상호작용.
 - 링크: https://github.com/leeholeo/SurvivalAndEscape
 
+4. MinigameX
+- 현재 진행중인 프로젝트
+- 진행상황: https://www.youtube.com/@MinigameX-w7f
+  
 ## 웹 프로젝트
 
 1. Happy House
