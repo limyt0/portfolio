@@ -28,3 +28,10 @@
 - 서울 관광 안내 서비스
 - 내 역할: DB 모델링 및 SQL 작성. 페이지 게시판 구현 
 - 링크: https://github.com/limyt0/inforseoul
+
+## C++ 프로젝트
+
+1. 간단한 채팅서버 구현
+- 간단한 대화가능 채팅서버 구현
+- 내 역할: 채서버 구현 및 테스트용 클라이언트 구현
+- 링크: https://github.com/limyt0/ytchatserver
