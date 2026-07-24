@@ -35,3 +35,19 @@
 - 간단한 대화가능 채팅서버 구현
 - 내 역할: 채팅서버 구현 및 테스트용 클라이언트 구현
 - 링크: https://github.com/limyt0/ytchatserver
+
+## Unreal 프로젝트
+1. 파머스 디펜더 (Farmer's Defender) — 감자마을 지키기!
+- UE5 기반의 로우폴리 TPS 타워 디펜스 × 농장 경영 하이브리드 게임
+- 내 역할: 팀장. Core 개발 및 Widget 상호작
+- 링크: https://github.com/NbcampUnreal/7th-Team5-CH3-Project
+
+2. SagoMagic
+- Co-op 탑다운 타워디펜스 게임
+- 내 역할: Behavior Tree 기반 몬스터 AI 상태전환 로직 구현
+- 링크:https://github.com/NBcampUnrealTrack/7th-Team4-CH4-Project
+
+3. Part-Time Beat!!
+- 3D 캐주얼 리듬 게임
+- 내 역할: 팀장. 기획 초안 구상 및 미니게임 일부 개발(JumpJump)
+- 링크: https://github.com/NBcampUnrealTrack/7th-Team6-Final-Project
