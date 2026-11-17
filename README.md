@@ -29,13 +29,6 @@
 - 내 역할: DB 모델링 및 SQL 작성. 페이지 게시판 구현 
 - 링크: https://github.com/limyt0/inforseoul
 
-## C++ 프로젝트
-
-1. YTCHAT
-- 간단한 대화가능 채팅서버 구현
-- 내 역할: 채팅서버 구현 및 테스트용 클라이언트 구현
-- 링크: https://github.com/limyt0/ytchatserver
-
 ## Unreal 프로젝트
 1. 파머스 디펜더 (Farmer's Defender) — 감자마을 지키기!
 - UE5 기반의 로우폴리 TPS 타워 디펜스 × 농장 경영 하이브리드 게임
